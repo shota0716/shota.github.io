@@ -7,3 +7,11 @@ body {
   font-family: "Hiragino Kaku Gothic ProN";
 }
 
+.header {
+  background-color: #000055;
+  height: 90px;
+}
+
+.header-logo {
+  color: #fff;
+}
