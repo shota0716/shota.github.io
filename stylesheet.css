@@ -16,7 +16,7 @@ header,.header-left {
  margin-bottom: 0px;
 }
 
-.contents {
+.contents h1 {
   background-image: url(IMGP0321.JPG);
   background-size: cover;
 }
