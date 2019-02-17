@@ -27,6 +27,7 @@ header , .header-left {
   background-image: url(IMGP0321.JPG);
   background-size: cover;
   height: 1000px;
+  margin-top: 0px;
 }
 @media(max-width: 670px) {
   .title {
