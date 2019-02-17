@@ -10,7 +10,7 @@ body {
 header {
   height: 65px;
   width: 100%;
-  background-color: rgba(34, 49, 52, 0.9);
+  background-color: #000055;
   /* positionプロパティをfixedに、topを0に指定してください */
   position: fixed;
   top: 0;
@@ -23,9 +23,7 @@ header {
   margin-top: 20px;
 }
 
-.header-left {
-  float: left;
-}
+
 
 .header-right {
   float: right;
