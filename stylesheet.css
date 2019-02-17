@@ -12,16 +12,10 @@ header {
   width: 100%;
   background-color: #000055;
   /* positionプロパティをfixedに、topを0に指定してください */
-  position: fixed;
-  top: 0;
-  /* z-indexを10に指定してください */
-  z-index: 10;
+ 
 }
 
-.logo {
-  width: 124px;
-  margin-top: 20px;
-}
+
 
 
 
