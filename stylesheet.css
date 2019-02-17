@@ -8,12 +8,22 @@ body {
 }
 
 .header {
-  background-color:　#000055;
-  height: 70px;
+  height: 80px;
+  background-color: #000055;
 }
 
 .header-logo {
+  font-size: 25px;
+  padding: 25px 25px;
   color: #fff;
-  font-size: 30px;
-  padding: 20px 10px;
+}
+
+.title {
+  color: #fff;
+  padding-top: 50px;
+  text-align: center;
+  font-size: 50px;
+  background-image: url(IMGP0321.JPG);
+  background-size: cover;
+  height: 1000px;
 }
