@@ -18,4 +18,5 @@ header,.header-left {
 
 .contents {
   background-image: url(IMGP0321.JPG);
+  background-size: cover;
 }
