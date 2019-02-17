@@ -7,7 +7,7 @@ body {
   font-family: "Hiragino Kaku Gothic ProN";
 }
 
-header , .header-left {
+header,.header-left {
   height: 65px;
   width: 100%;
   background-color: #000055;
@@ -17,20 +17,3 @@ header , .header-left {
 }
 
 
-
-
-.title {
-  color: #fff;
-  
-  text-align: center;
-  font-size: 50px;
-  background-image: url(IMGP0321.JPG);
-  background-size: cover;
-  height: 1000px;
-  margin-top: 0px;
-}
-@media(max-width: 670px) {
-  .title {
-    font-size: 28px;
-  }
-}
