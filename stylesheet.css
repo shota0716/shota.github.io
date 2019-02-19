@@ -1,0 +1,37 @@
+.table1 {
+  text-align: center;
+  margin: auto;
+  padding-top: 30px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table th {
+  background-color: skyblue;
+  padding: 10px;
+  color: white;
+
+}
+
+table td {
+  padding: 3px 10px;
+  text-align: center;
+  font-weight: bold;
+}
+
+
+
+.header {
+  background-color: #4682b4;
+
+  height: 80px;
+}
+
+.header-logo {
+  font-size: 28px;
+  padding: 20px 20px;
+  color: #fff;
+  font-weight: bold;
+}
