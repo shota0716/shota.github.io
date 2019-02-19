@@ -35,3 +35,11 @@ table td {
   color: #fff;
   font-weight: bold;
 }
+
+.form {
+  text-align: center;
+  margin: auto;
+  padding-top: 30px;
+  padding-bottom: 20px;
+
+}
